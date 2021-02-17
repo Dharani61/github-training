@@ -1,2 +1,2 @@
 # github-training
-training purpose
+training purpose update
